@@ -1,4 +1,4 @@
-package com.joao.quakelogparser;
+package com.joao.quakelogparser.psrcontrol;
 
 import com.joao.quakelogparser.model.Game;
 import com.joao.quakelogparser.model.SingleGameLog;
