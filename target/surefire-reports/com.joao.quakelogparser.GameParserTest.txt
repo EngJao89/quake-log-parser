@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.joao.quakelogparser.GameParserTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.joao.quakelogparser.GameParserTest
+com.joao.quakelogparser.GameParserTest  Time elapsed: 0 s  <<< ERROR!
+org.junit.platform.commons.JUnitException: @BeforeAll method 'public void com.joao.quakelogparser.GameParserTest.setup()' must be static unless the test class is annotated with @TestInstance(Lifecycle.PER_CLASS).
+
